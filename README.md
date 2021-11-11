@@ -1,2 +1,2 @@
-# curso-php-avan-ado
+# curso-php-avançado
 Desenvolvimento avançado em PHP
