@@ -2,7 +2,7 @@
     "name": "moratomicro/digital-cep",
     "description": "Busca de cep online",
     "type": "library",
-    "license": "Opensource",
+    "license": "MIT",
     "autoload": {
         "psr-0": {
             "Search": "src/"
