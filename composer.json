@@ -18,6 +18,14 @@
         }
     ],
     "require": {
-        "php": ">=8.0.2"
+        "php": ">=7.2.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "dev-master"
+    },
+    "config": {
+        "platform": {
+            "php": "7.4.3"
+        }
     }
 }
